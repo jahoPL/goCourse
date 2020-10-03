@@ -1,8 +1,12 @@
 package main
 
-import "github/Ko4s/goCourse/class2"
+import (
+	"fmt"
+	"github/Ko4s/goCourse/class2"
+)
 
 func main() {
-	filePath := "class2/test.txt"
-	class2.OpenFile(filePath)
+	//filePath := "class2/test.txt"
+	res, _ := class2.HashStringExample("HelloWorld")
+	fmt.Println(res)
 }

@@ -7,6 +7,7 @@ import (
 	"os"
 )
 
+
 func OpenFile(filePath string) {
 
 	file, err := os.Open(filePath)
