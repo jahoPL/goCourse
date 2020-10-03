@@ -4,6 +4,6 @@ package class2
 func HashFile(filePath string) ([]string, error) {
 	//Uwaga to nie jest wszystko
 	lines := ReadFileByLine(filePath)
-
+	
 	return lines, nil
 }

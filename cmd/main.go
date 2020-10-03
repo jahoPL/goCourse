@@ -7,6 +7,6 @@ import (
 
 func main() {
 	//filePath := "class2/test.txt"
-	res, _ := class2.HashStringExample("HelloWorld")
+	res, _ := class2.HashString("HelloWorld")
 	fmt.Println(res)
 }
