@@ -1,4 +1,4 @@
-package class2
+package topic2
 
 import "fmt"
 

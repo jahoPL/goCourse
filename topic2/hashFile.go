@@ -1,4 +1,4 @@
-package class2
+package topic2
 
 //HashFile return hased string of certain file
 func HashFile(filePath string) ([]string, error) {

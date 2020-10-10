@@ -1,0 +1,1 @@
+* [Funkcja OpenFile](https://golang.org/pkg/os/#OpenFile)
